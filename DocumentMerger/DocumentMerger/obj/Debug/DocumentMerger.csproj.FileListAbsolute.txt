@@ -1,0 +1,7 @@
+C:\Users\austi\OneDrive\Documents\ITClass\Git_Hub\DocumentMerger\DocumentMerger\DocumentMerger\bin\Debug\DocumentMerger.exe.config
+C:\Users\austi\OneDrive\Documents\ITClass\Git_Hub\DocumentMerger\DocumentMerger\DocumentMerger\bin\Debug\DocumentMerger.exe
+C:\Users\austi\OneDrive\Documents\ITClass\Git_Hub\DocumentMerger\DocumentMerger\DocumentMerger\bin\Debug\DocumentMerger.pdb
+C:\Users\austi\OneDrive\Documents\ITClass\Git_Hub\DocumentMerger\DocumentMerger\DocumentMerger\obj\Debug\DocumentMerger.csprojAssemblyReference.cache
+C:\Users\austi\OneDrive\Documents\ITClass\Git_Hub\DocumentMerger\DocumentMerger\DocumentMerger\obj\Debug\DocumentMerger.csproj.CoreCompileInputs.cache
+C:\Users\austi\OneDrive\Documents\ITClass\Git_Hub\DocumentMerger\DocumentMerger\DocumentMerger\obj\Debug\DocumentMerger.exe
+C:\Users\austi\OneDrive\Documents\ITClass\Git_Hub\DocumentMerger\DocumentMerger\DocumentMerger\obj\Debug\DocumentMerger.pdb
